@@ -2,10 +2,9 @@
 
 ## Anggota Kelompok
 
-1. Robiata Tsania Salsabila Aditya Putri (1946180850-237)
-2. Dhiza Faula Firdausyi Abdul
-3. Linia Siska Risandi
-4. Nur Alina
+1. Robiata Tsania Salsabila Aditya Putri 
+2. Linia Siska Risandi
+3. Nur Alina
 
 ## Disclaimer
 
@@ -15,9 +14,9 @@ Project ini menggunakan database PostgreSQL.
 ## Pages Route
 
 ```http
-Home page   : GET http://http://127.0.0.1:8000/
+Home page       : GET http://http://127.0.0.1:8000/
 Product Detail  : GET http://http://127.0.0.1:8000/product/<slug>/
-Chekout Page  : GET http://http://127.0.0.1:8000/checkout
-Order Summary     : GET http://http://127.0.0.1:8000/order-summary
-Payment  : GET http://http://127.0.0.1:8000/payment/<payment_method>
+Chekout Page    : GET http://http://127.0.0.1:8000/checkout
+Order Summary   : GET http://http://127.0.0.1:8000/order-summary
+Payment         : GET http://http://127.0.0.1:8000/payment/<payment_method>
 ```
